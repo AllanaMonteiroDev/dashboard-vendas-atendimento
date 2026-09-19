@@ -1,0 +1,17 @@
+{
+    "preco_medio_com_desconto": 3129.98,
+    "desconto_medio_percentual": 47.67,
+    "avaliacao_media": 4.1,
+    "volume_total_avaliacoes": 26765385,
+    "distribuicao_por_categoria": {
+        "Electronics": 526,
+        "Computers&Accessories": 451,
+        "Home&Kitchen": 447,
+        "OfficeProducts": 31,
+        "MusicalInstruments": 2,
+        "HomeImprovement": 2,
+        "Toys&Games": 1,
+        "Car&Motorbike": 1,
+        "Health&PersonalCare": 1
+    }
+}
