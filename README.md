@@ -6,7 +6,7 @@ Projeto do Tech Girls Challenge — Equipe Manhã.
 
 ## Equipe
 
-- Amanda — Frontend https://www.linkedin.com/in/amanda-carvalho-949930196/?isSelfProfile=true
+- Amanda — Frontend 
 - Allana da Cruz — Backend, dados e SQL
 
 ## Stack
