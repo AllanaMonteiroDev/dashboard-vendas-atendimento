@@ -52,17 +52,17 @@ Foi desenvolvido um dashboard web utilizando HTML e CSS, com o objetivo de apres
 
 A interface foi estruturada em diferentes seções:
 
-Cabeçalho, com o título e uma breve descrição do dashboard.
-Visão geral, apresentando a finalidade dos indicadores.
-Cards de indicadores, destinados a apresentar:
-Preço médio com desconto;
-Percentual médio de desconto;
-Avaliação média dos clientes;
-Volume total de avaliações.
-Distribuição por categoria, utilizando barras de progresso para facilitar a visualização da quantidade de produtos por categoria principal.
-Resumo dos indicadores, reunindo os principais resultados da análise.
-Tabela de produtos, preparada para apresentar informações como produto, categoria, preço com desconto, percentual de desconto, avaliação e quantidade de avaliações.
-Layout responsivo, permitindo que a interface se adapte a diferentes tamanhos de tela, como computadores, tablets e celulares.
+*Cabeçalho*, com o título e uma breve descrição do dashboard.
+*Visão geral*, apresentando a finalidade dos indicadores.
+*Cards de indicadores*, destinados a apresentar:
+*Preço médio* com desconto;
+*Percentual médio* de desconto;
+*Avaliação média* dos clientes;
+*Volume total* de avaliações.
+*Distribuição por categoria*, utilizando barras de progresso para facilitar a visualização da quantidade de produtos por categoria principal.
+*Resumo dos indicadores*, reunindo os principais resultados da análise.
+*Tabela de produtos*, preparada para apresentar informações como produto, categoria, preço com desconto, percentual de desconto, avaliação e quantidade de avaliações.
+*Layout responsivo*, permitindo que a interface se adapte a diferentes tamanhos de tela, como computadores, tablets e celulares.
 
 O **CSS** foi desenvolvido com foco em uma interface limpa e organizada, utilizando cards, painéis, tabela, espaçamentos, bordas, efeitos de interação e responsividade para melhorar a visualização e a experiência do usuário.
 
