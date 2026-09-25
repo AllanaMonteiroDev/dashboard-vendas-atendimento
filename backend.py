@@ -11,6 +11,7 @@ except FileNotFoundError:
 # Tratar o caso de a base estar vazia
 if df.empty:
     print("Erro: a base de dados está vazia.")
+    exit()
 
 # Tratar valores nulos
 df = df.dropna(subset=['rating_count'])
